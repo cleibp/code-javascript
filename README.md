@@ -10,7 +10,7 @@ Exemplo de códigos em js
     ### Clonando
 
     ```bash
-    git clone git@github.com:cleibp/apiNode.git
+    git clone git@github.com:cleibp/code-javascript.git
     ```
 1. Download:
     ### Download Manual
