@@ -45,7 +45,7 @@ Exemplo de códigos em js
 ```
 
 ## 👋🏽 DEMO
-[REPLIT](https://replit.com/@cleibp/Code-Javascript) 
+|=>
 
 ## Contatos
 
